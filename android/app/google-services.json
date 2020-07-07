@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312067856700",
+    "firebase_url": "https://taalk-74e5b.firebaseio.com",
+    "project_id": "taalk-74e5b",
+    "storage_bucket": "taalk-74e5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312067856700:android:7286a14eb267d25f64a639",
+        "android_client_info": {
+          "package_name": "org.silvatech.taalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312067856700-gcsdol2pfjbojmevb455sflbl6t3t3nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.silvatech.taalk",
+            "certificate_hash": "fde6c3ec210d830a2b6ccf73cb8906980ffb209a"
+          }
+        },
+        {
+          "client_id": "312067856700-l29s7a753p967baut8do373cejoka488.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv2vkJvloeGx1Y4tu2MrU1eAkkNS4ttXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312067856700-l29s7a753p967baut8do373cejoka488.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312067856700-1cmu82bhi9b6ec4q4acd0poa72nm7ulj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.silvatech.taalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

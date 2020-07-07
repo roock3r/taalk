@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312067856700-1cmu82bhi9b6ec4q4acd0poa72nm7ulj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312067856700-1cmu82bhi9b6ec4q4acd0poa72nm7ulj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsDQwj7E40RVvAKif4QYcblG9nq8x3qJI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312067856700</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.silvatech.taalk</string>
+	<key>PROJECT_ID</key>
+	<string>taalk-74e5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taalk-74e5b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312067856700:ios:0831b75705509f1f64a639</string>
+	<key>DATABASE_URL</key>
+	<string>https://taalk-74e5b.firebaseio.com</string>
+</dict>
+</plist>
